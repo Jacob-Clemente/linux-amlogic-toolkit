@@ -1,0 +1,5 @@
+project: jacob-clemente/linux-amlogic-toolkit
+target: abootimg
+
+cmds:
+  - cmd: /abootimg -i @@
