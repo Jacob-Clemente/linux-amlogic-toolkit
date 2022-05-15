@@ -1,4 +1,4 @@
-project: jacob-clemente/linux-amlogic-toolkit
+project: linux-amlogic-toolkit
 target: abootimg
 
 cmds:
